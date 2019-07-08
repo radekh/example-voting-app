@@ -168,7 +168,7 @@ pipeline {
           agent any
           when{
             changeset "**/vote/**"
-            banch 'master'
+            branch 'master'
           }
           steps{
             echo 'Running Integration Tests on vote app'
