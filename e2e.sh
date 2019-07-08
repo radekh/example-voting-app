@@ -2,7 +2,7 @@
 
 cd e2e 
 
-#docker-compose down
+docker-compose down > /dev/null 2>&1 
 
 #sleep 10
 
@@ -11,8 +11,7 @@ docker-compose up -d
 
 docker-compose ps
 
+docker-compose run --rm e2e
 
-sleep 20
-
-docker-compose run --rm e2e 
+docker-compose down 
 
