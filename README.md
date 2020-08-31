@@ -3,6 +3,9 @@ Example Voting App
 
 This is a sample instavote application, used in LFS261 course.
 
+* Build Status
+[![Build Status](http://conie2:8080/buildStatus/icon?job=instavote-bild)](http://conie2:8080/job/instavote-bild/)
+
 Getting started
 ---------------
 
