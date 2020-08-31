@@ -7,6 +7,7 @@ This is a sample instavote application, used in LFS261 course.
 [![Build Status](http://conie2:8080/buildStatus/icon?job=instavote-bild)](http://conie2:8080/job/instavote-bild/)
 * [![Build Status](http://conie2:8080/job/instavote-bild/badge/icon)](http://conie2:8080/job/instavote-bild/)
 
+* UnitTest: [![Build Status](http://conie2:8080/buildStatus/icon?job=worker-test&subject=UnitTest)](http://conie2:8080/job/worker-test/)
 Getting started
 ---------------
 
